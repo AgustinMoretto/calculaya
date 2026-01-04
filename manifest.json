@@ -1,0 +1,17 @@
+{
+  "name": "CalculaYa Pro - Agustin Moretto",
+  "short_name": "CalculaYa Pro",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#ffcc00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
